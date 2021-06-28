@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/buslogo.png</file>
+        <file>images/busstoplogo.png</file>
+        <file>images/thanos.png</file>
+        <file>images/beam.png</file>
+        <file>images/ironman.png</file>
+        <file>images/axe.png</file>
+        <file>images/captain.png</file>
+        <file>images/shield.png</file>
+        <file>images/thor.png</file>
+    </qresource>
+</RCC>
